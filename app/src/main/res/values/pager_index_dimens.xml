@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the MainView begin -->
+    <dimen name="main_pager_indicator_height">55dp</dimen>
+    <dimen name="main_pager_indicator_framelayout_width">43dp</dimen>
+    <dimen name="main_pager_indicator_framelayout_height">33dp</dimen>
+    <dimen name="main_pager_indicator_framelayout_marginTop">6dp</dimen>
+    <dimen name="main_pager_indicator_imageview_icon">33dp</dimen>
+    <dimen name="main_pager_indicator_imageview_hint">8dp</dimen>
+    <dimen name="main_pager_indicator_label_textSize">12sp</dimen>
+    <!-- the MainView end -->
+</resources>

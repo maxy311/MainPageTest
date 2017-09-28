@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MainPageTest</string>
+
+    <string name="fragment_name_1">fragment-1</string>
+    <string name="fragment_name_2">fragment-2</string>
+    <string name="fragment_name_3">fragment-3</string>
+    <string name="fragment_name_4">fragment-4</string>
+</resources>
